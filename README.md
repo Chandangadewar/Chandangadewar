@@ -1,91 +1,83 @@
-# Hi 👋 I'm Chandan Gadewar
+<h1 align="center">Hi 👋, I'm Chandan Gadewar</h1>
+<h3 align="center">Cloud & DevOps Enthusiast ☁️</h3>
 
-☁️ Cloud & DevOps Enthusiast from India
-
-I am passionate about building scalable cloud infrastructure and automating deployments using modern DevOps tools.  
-Currently focused on **AWS, Terraform, Containers, and CI/CD pipelines.**
-
----
-
-## ☁️ About Me
-
-- 🚀 Aspiring **Cloud & DevOps Engineer**
-- ☁️ Learning and building projects on **AWS Cloud**
-- ⚙️ Interested in **Infrastructure as Code and Automation**
-- 📦 Working with **containers and deployment pipelines**
-- 📚 Continuously improving skills in **Kubernetes, Terraform, and CI/CD**
+<p align="center">
+Interested in building scalable cloud infrastructure and automating deployments using DevOps tools.
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 About Me
 
-### Cloud
-- AWS
+- ☁️ Aspiring **Cloud & DevOps Engineer**
+- 🔧 Working with **AWS, Terraform, Docker**
+- ⚙️ Learning **Kubernetes and CI/CD**
+- 📚 Focused on **Infrastructure as Code and Automation**
+- 🚀 Building real-world **Cloud & DevOps projects**
 
-### Infrastructure as Code
-- Terraform
+---
 
-### DevOps Tools
-- Docker
-- Kubernetes
-- Jenkins
-- GitHub Actions
+## 🛠 DevOps & Cloud Tools
 
-### Version Control
-- Git
-- GitHub
-
-### Operating System
-- Linux
+<p>
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,linux,git,github,vscode" />
+</p>
 
 ---
 
 ## 🚀 Projects
 
-### Terraform AWS VPC Infrastructure
+### 🔹 Terraform AWS VPC Infrastructure
 Created AWS network infrastructure using Terraform including:
 
 - VPC
-- Public Subnet
-- Private Subnet
+- Public & Private Subnets
 - Internet Gateway
 - NAT Gateway
 - Route Tables
 
-Repository:  
+Repo  
 https://github.com/Chandangadewar/Terraform-vpc-project
 
 ---
 
-### AWS DevOps Todo Application
+### 🔹 AWS DevOps Todo Application
 
-A DevOps project demonstrating application deployment on AWS using DevOps practices.
-
-Includes:
-
-- Cloud deployment
-- CI/CD concepts
-- Infrastructure automation
-
-Repository:  
-(Add repo link)
+DevOps project demonstrating cloud deployment and CI/CD concepts on AWS.
 
 ---
 
-### TastyHub Application
+### 🔹 TastyHub Application
 
-A cloud-ready application project focused on deployment and infrastructure setup.
-
-Repository:  
-(Add repo link)
+Cloud-ready application deployed with modern DevOps practices.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandangadewar&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandangadewar&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=Chandangadewar&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandangadewar&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Chandangadewar&theme=tokyonight" />
+
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=Chandangadewar&label=Profile%20views&color=blue&style=flat" />
 
 ---
 
@@ -95,8 +87,8 @@ GitHub
 https://github.com/Chandangadewar
 
 LinkedIn  
-https://www.linkedin.com/in/chandan-gadewar-066194258/https://www.linkedin.com/in/chandan-gadewar-066194258/
+(Add your LinkedIn link here)
 
 ---
 
-⭐ Focused on building real-world **Cloud & DevOps projects**.
+⭐ Building projects to become a **Cloud & DevOps Engineer**
