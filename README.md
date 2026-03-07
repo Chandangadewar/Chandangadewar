@@ -52,14 +52,13 @@ DevOps project demonstrating cloud deployment and CI/CD concepts on AWS.
 Cloud-ready application deployed with modern DevOps practices.
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chandangadewar&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Chandangadewar&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandangadewar&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandangadewar&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -67,12 +66,9 @@ Cloud-ready application deployed with modern DevOps practices.
 
 ## 🔥 GitHub Streak
 
-
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chandangadewar&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandangadewar&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Chandangadewar&theme=tokyonight"/>
 
 </p>
 
