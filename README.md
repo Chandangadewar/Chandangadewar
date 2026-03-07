@@ -67,7 +67,6 @@ Cloud-ready application deployed with modern DevOps practices.
 
 ## 🔥 GitHub Streak
 
-<## 📊 GitHub Stats
 
 <p align="center">
 
@@ -91,7 +90,7 @@ GitHub
 https://github.com/Chandangadewar
 
 LinkedIn  
-(Add your LinkedIn link here)
+https://www.linkedin.com/in/chandan-gadewar-066194258/
 
 ---
 
