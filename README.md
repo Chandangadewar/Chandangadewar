@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandan Gadewar</h1>
-<h3 align="center">Junior DevOps & Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD | Backend Engineering</h3>
+<h3 align="center">
+DevOps & Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD | Ansible | Monitoring | Backend Engineering
+</h3>
 
 <p align="center">
 Passionate about building scalable cloud infrastructure, automating deployments, and developing production-ready backend systems.
@@ -15,7 +17,7 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 ## 🚀 About Me
 
-* ☁️ Junior **Cloud & DevOps Engineer** with hands-on project experience in AWS infrastructure automation
+* ☁️ **DevOps & Cloud Engineer** with hands-on experience in AWS infrastructure automation, CI/CD, and Kubernetes-based deployments
 * 🔧 Working with **AWS, Terraform, Kubernetes (EKS), Docker, Jenkins, GitHub Actions, Ansible**
 * ⚙️ Experienced in **CI/CD pipelines, Infrastructure as Code (IaC), Monitoring & Automation**
 * 💻 Backend development experience with **Java, Spring Boot, Node.js, Express.js, MongoDB, MySQL**
@@ -52,12 +54,12 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 **Tech Stack:** Docker · GitHub Actions · Terraform · AWS EKS · Kubernetes · Prometheus · Grafana
 
-- Containerized full-stack application using Docker multi-stage builds
-- Built CI/CD pipeline using GitHub Actions for automated deployments
-- Provisioned scalable AWS EKS infrastructure using Terraform
-- Configured Prometheus & Grafana monitoring dashboards
+* Containerized full-stack application using Docker multi-stage builds
+* Built CI/CD pipeline using GitHub Actions for automated deployments
+* Provisioned scalable AWS EKS infrastructure using Terraform
+* Configured Prometheus & Grafana monitoring dashboards
 
-🔗 Repo: https://github.com/Chandangadewar/End-to-End-DevOps-CI-CD-Pipeline
+🔗 Repo: [https://github.com/Chandangadewar/End-to-End-DevOps-CI-CD-Pipeline](https://github.com/Chandangadewar/End-to-End-DevOps-CI-CD-Pipeline)
 
 ---
 
@@ -65,12 +67,12 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 **Tech Stack:** Terraform · AWS EKS · Jenkins · Kubernetes · IAM · VPC · Bash
 
-- Automated AWS infrastructure provisioning using Terraform
-- Built Jenkins CI/CD workflow for Kubernetes deployments
-- Configured EKS cluster and deployment automation
-- Implemented repeatable deployment workflows
+* Automated AWS infrastructure provisioning using Terraform
+* Built Jenkins CI/CD workflow for Kubernetes deployments
+* Configured EKS cluster and deployment automation
+* Implemented repeatable deployment workflows
 
-🔗 Repo: https://github.com/Chandangadewar/eks-terraform-jenkins-cicd
+🔗 Repo: [https://github.com/Chandangadewar/eks-terraform-jenkins-cicd](https://github.com/Chandangadewar/eks-terraform-jenkins-cicd)
 
 ---
 
@@ -78,12 +80,12 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 **Tech Stack:** Terraform · Ansible · AWS EC2 · Nginx · Linux
 
-- Automated AWS EC2 provisioning using Terraform
-- Configured Nginx web server using Ansible roles & handlers
-- Implemented dynamic inventory generation
-- Built idempotent infrastructure automation workflow
+* Automated AWS EC2 provisioning using Terraform
+* Configured Nginx web server using Ansible roles & handlers
+* Implemented dynamic inventory generation
+* Built idempotent infrastructure automation workflow
 
-🔗 Repo: https://github.com/Chandangadewar/aws-terraform-ansible-automation
+🔗 Repo: [https://github.com/Chandangadewar/aws-terraform-ansible-automation](https://github.com/Chandangadewar/aws-terraform-ansible-automation)
 
 ---
 
@@ -91,12 +93,12 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 **Tech Stack:** AWS EKS · Kubernetes · Datadog · Monitoring · Observability
 
-- Implemented monitoring on AWS EKS using Datadog
-- Deployed NGINX on Kubernetes and generated traffic
-- Verified real-time logs and observability dashboards
-- Improved debugging and monitoring visibility
+* Implemented monitoring on AWS EKS using Datadog
+* Deployed NGINX on Kubernetes and generated traffic
+* Verified real-time logs and observability dashboards
+* Improved debugging and monitoring visibility
 
-🔗 Repo: https://github.com/Chandangadewar/eks-datadog-monitoring
+🔗 Repo: [https://github.com/Chandangadewar/eks-datadog-monitoring](https://github.com/Chandangadewar/eks-datadog-monitoring)
 
 ---
 
@@ -104,12 +106,12 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 **Tech Stack:** Java · Spring Boot · Docker · GitHub Actions · AWS
 
-- Built backend application using Spring Boot
-- Implemented CI/CD automation for deployments
-- Containerized application using Docker
-- Explored cloud deployment practices on AWS
+* Built backend application using Spring Boot
+* Implemented CI/CD automation for deployments
+* Containerized application using Docker
+* Explored cloud deployment practices on AWS
 
-🔗 Repo: https://github.com/Chandangadewar/springboot-cicd-aws
+🔗 Repo: [https://github.com/Chandangadewar/springboot-cicd-aws](https://github.com/Chandangadewar/springboot-cicd-aws)
 
 ---
 
@@ -117,12 +119,13 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 **Tech Stack:** Node.js · Docker · GitHub Actions · AWS EC2 · Nginx
 
-- Dockerized Node.js Todo application
-- Deployed on AWS EC2 with Nginx reverse proxy
-- Automated CI/CD pipeline using GitHub Actions
-- Integrated Docker Hub for image delivery
+* Dockerized Node.js Todo application
+* Deployed on AWS EC2 with Nginx reverse proxy
+* Automated CI/CD pipeline using GitHub Actions
+* Integrated Docker Hub for image delivery
 
-🔗 Repo: https://github.com/Chandangadewar/aws-devops-todo
+🔗 Repo: [https://github.com/Chandangadewar/aws-devops-todo](https://github.com/Chandangadewar/aws-devops-todo)
+
 ---
 
 ## 📊 GitHub Stats
@@ -150,7 +153,3 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 * 💼 LinkedIn: [https://www.linkedin.com/in/chandan-gadewar-066194258/](https://www.linkedin.com/in/chandan-gadewar-066194258/)
 * 💻 GitHub: [https://github.com/Chandangadewar](https://github.com/Chandangadewar)
 * 📧 Open to opportunities in **DevOps, Cloud Engineering & Backend Development**
-
----
-
-⭐ Building scalable cloud infrastructure, backend systems, and DevOps automation
