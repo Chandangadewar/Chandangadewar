@@ -76,7 +76,20 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 ---
 
-### 🔹 AWS Terraform Ansible Automation
+### 🔹 Terraform VPC Project
+
+**Tech Stack:** Terraform · AWS VPC · Subnets · Internet Gateway · NAT Gateway
+
+* Automated AWS VPC infrastructure using Terraform
+* Created public/private subnets, Internet Gateway, and NAT Gateway
+* Configured route tables and security groups
+* Built modular Infrastructure as Code architecture
+
+🔗 Repo: [https://github.com/Chandangadewar/Terraform-vpc-project](https://github.com/Chandangadewar/Terraform-vpc-project)
+
+---
+
+### 🔹 AWS Terraform Ansible Nginx Automation
 
 **Tech Stack:** Terraform · Ansible · AWS EC2 · Nginx · Linux
 
@@ -85,7 +98,7 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 * Implemented dynamic inventory generation
 * Built idempotent infrastructure automation workflow
 
-🔗 Repo: [https://github.com/Chandangadewar/aws-terraform-ansible-automation](https://github.com/Chandangadewar/aws-terraform-ansible-automation)
+🔗 Repo: [https://github.com/Chandangadewar/aws-terraform-ansible-nginx-automation](https://github.com/Chandangadewar/aws-terraform-ansible-nginx-automation)
 
 ---
 
@@ -106,12 +119,12 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 **Tech Stack:** Java · Spring Boot · MongoDB · Docker · GitHub Actions · AWS · Prometheus · Grafana
 
-- Built production-grade REST API using Spring Boot + MongoDB
-- Containerized application using Docker
-- Automated CI/CD using GitHub Actions
-- Deployed on AWS EC2 with Prometheus & Grafana monitoring
+* Built production-grade REST API using Spring Boot + MongoDB
+* Containerized application using Docker
+* Automated CI/CD using GitHub Actions
+* Deployed on AWS EC2 with Prometheus & Grafana monitoring
 
-🔗 Repo: https://github.com/Chandangadewar/springboot-cicd-aws
+🔗 Repo: [https://github.com/Chandangadewar/springboot-cicd-aws](https://github.com/Chandangadewar/springboot-cicd-aws)
 
 ---
 
@@ -131,11 +144,11 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Chandangadewar&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api?username=Chandangadewar&show_icons=true&theme=tokyonight&cache_seconds=1800&v=2" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandangadewar&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandangadewar&layout=compact&theme=tokyonight&cache_seconds=1800&v=2" />
 </p>
 
 ---
