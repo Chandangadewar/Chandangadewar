@@ -104,14 +104,14 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 ### 🔹 Spring Boot CI/CD AWS
 
-**Tech Stack:** Java · Spring Boot · Docker · GitHub Actions · AWS
+**Tech Stack:** Java · Spring Boot · MongoDB · Docker · GitHub Actions · AWS · Prometheus · Grafana
 
-* Built backend application using Spring Boot
-* Implemented CI/CD automation for deployments
-* Containerized application using Docker
-* Explored cloud deployment practices on AWS
+- Built production-grade REST API using Spring Boot + MongoDB
+- Containerized application using Docker
+- Automated CI/CD using GitHub Actions
+- Deployed on AWS EC2 with Prometheus & Grafana monitoring
 
-🔗 Repo: [https://github.com/Chandangadewar/springboot-cicd-aws](https://github.com/Chandangadewar/springboot-cicd-aws)
+🔗 Repo: https://github.com/Chandangadewar/springboot-cicd-aws
 
 ---
 
