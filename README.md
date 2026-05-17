@@ -26,6 +26,22 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 ---
 
+## 🏆 Certifications
+
+### AWS Certified Solutions Architect – Associate (SAA-C03)
+
+- Issued by: Amazon Web Services (AWS)
+- Validation Number: `135df067d42d4d929d6f1358ceaafee7`
+- Credential: [View Badge](https://www.credly.com/badges/4153cf44-8bc6-4995-afa9-cb8970cac5c5/linked_in_profile)
+
+<p>
+<a href="https://www.credly.com/badges/4153cf44-8bc6-4995-afa9-cb8970cac5c5/linked_in_profile">
+<img src="https://images.credly.com/size/340x340/images/8d65efac-4bbe-4b15-8c4f-c8d28d1b4f7c/image.png" width="140"/>
+</a>
+</p>
+
+---
+
 ## 🛠 Tech Stack
 
 ### ☁️ Cloud & DevOps
