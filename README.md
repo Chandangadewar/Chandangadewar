@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chandan Gadewar</h1>
+
 <h3 align="center">
-DevOps & Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD | Ansible | Monitoring | Backend Engineering
+Cloud, DevOps & Full Stack Engineer | AWS Certified | Kubernetes | Terraform | CI/CD | Java | Spring Boot | Node.js
 </h3>
 
 <p align="center">
-Passionate about building scalable cloud infrastructure, automating deployments, and developing production-ready backend systems.
+Passionate about building scalable cloud infrastructure, automating deployments, and developing production-ready full stack & backend applications.
 </p>
 
 <p align="center">
@@ -13,16 +14,30 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 </a>
 </p>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/chandan-gadewar-066194258/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/Chandangadewar">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.credly.com/badges/4153cf44-8bc6-4995-afa9-cb8970cac5c5/linked_in_profile">
+<img src="https://img.shields.io/badge/AWS-SAA--C03-orange?style=for-the-badge&logo=amazonaws" />
+</a>
+</p>
+
 ---
 
 ## 🚀 About Me
 
-* ☁️ **DevOps & Cloud Engineer** with hands-on experience in AWS infrastructure automation, CI/CD, and Kubernetes-based deployments
+* ☁️ **Cloud, DevOps & Full Stack Engineer** with hands-on experience in AWS infrastructure automation, Kubernetes deployments, CI/CD pipelines, and backend systems
 * 🔧 Working with **AWS, Terraform, Kubernetes (EKS), Docker, Jenkins, GitHub Actions, Ansible**
-* ⚙️ Experienced in **CI/CD pipelines, Infrastructure as Code (IaC), Monitoring & Automation**
-* 💻 Backend development experience with **Java, Spring Boot, Node.js, Express.js, MongoDB, MySQL**
-* 📈 Interested in **Cloud Engineering, DevOps, Backend Systems & Platform Engineering**
-* 🚀 Building real-world **Cloud, DevOps & Backend projects**
+* ⚙️ Experienced in **Infrastructure as Code (IaC), Monitoring, DevSecOps & Automation**
+* 💻 Backend & Full Stack development experience with **Java, Spring Boot, Node.js, Express.js, MongoDB, MySQL, React**
+* 📈 Interested in **Cloud Engineering, DevOps, Backend Systems, Platform Engineering & Scalable Architectures**
+* 🚀 Building real-world **Cloud, DevOps & Full Stack projects**
 
 ---
 
@@ -50,10 +65,10 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,linux,bash,git,github,prometheus,grafana,ansible" />
 </p>
 
-### 💻 Backend Development
+### 💻 Backend & Full Stack Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mongodb,mysql,react,js,html,css" />
 </p>
 
 ### 🧰 Tools & IDEs
@@ -75,7 +90,7 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 * Provisioned scalable AWS EKS infrastructure using Terraform
 * Configured Prometheus & Grafana monitoring dashboards
 
-🔗 Repo: [https://github.com/Chandangadewar/End-to-End-DevOps-CI-CD-Pipeline](https://github.com/Chandangadewar/End-to-End-DevOps-CI-CD-Pipeline)
+🔗 Repo: [End-to-End DevOps CI/CD Pipeline](https://github.com/Chandangadewar/End-to-End-DevOps-CI-CD-Pipeline)
 
 ---
 
@@ -88,7 +103,7 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 * Configured EKS cluster and deployment automation
 * Implemented repeatable deployment workflows
 
-🔗 Repo: [https://github.com/Chandangadewar/eks-terraform-jenkins-cicd](https://github.com/Chandangadewar/eks-terraform-jenkins-cicd)
+🔗 Repo: [EKS Terraform Jenkins CI/CD](https://github.com/Chandangadewar/eks-terraform-jenkins-cicd)
 
 ---
 
@@ -101,7 +116,7 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 * Configured route tables and security groups
 * Built modular Infrastructure as Code architecture
 
-🔗 Repo: [https://github.com/Chandangadewar/Terraform-vpc-project](https://github.com/Chandangadewar/Terraform-vpc-project)
+🔗 Repo: [Terraform VPC Project](https://github.com/Chandangadewar/Terraform-vpc-project)
 
 ---
 
@@ -114,7 +129,7 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 * Implemented dynamic inventory generation
 * Built idempotent infrastructure automation workflow
 
-🔗 Repo: [https://github.com/Chandangadewar/aws-terraform-ansible-nginx-automation](https://github.com/Chandangadewar/aws-terraform-ansible-nginx-automation)
+🔗 Repo: [AWS Terraform Ansible Nginx Automation](https://github.com/Chandangadewar/aws-terraform-ansible-nginx-automation)
 
 ---
 
@@ -127,7 +142,7 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 * Verified real-time logs and observability dashboards
 * Improved debugging and monitoring visibility
 
-🔗 Repo: [https://github.com/Chandangadewar/eks-datadog-monitoring](https://github.com/Chandangadewar/eks-datadog-monitoring)
+🔗 Repo: [EKS Datadog Monitoring](https://github.com/Chandangadewar/eks-datadog-monitoring)
 
 ---
 
@@ -140,7 +155,7 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 * Automated CI/CD using GitHub Actions
 * Deployed on AWS EC2 with Prometheus & Grafana monitoring
 
-🔗 Repo: [https://github.com/Chandangadewar/springboot-cicd-aws](https://github.com/Chandangadewar/springboot-cicd-aws)
+🔗 Repo: [Spring Boot CI/CD AWS](https://github.com/Chandangadewar/springboot-cicd-aws)
 
 ---
 
@@ -153,7 +168,7 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 * Automated CI/CD pipeline using GitHub Actions
 * Integrated Docker Hub for image delivery
 
-🔗 Repo: [https://github.com/Chandangadewar/aws-devops-todo](https://github.com/Chandangadewar/aws-devops-todo)
+🔗 Repo: [AWS DevOps Todo Application](https://github.com/Chandangadewar/aws-devops-todo)
 
 ---
 
@@ -179,6 +194,8 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/chandan-gadewar-066194258/](https://www.linkedin.com/in/chandan-gadewar-066194258/)
-* 💻 GitHub: [https://github.com/Chandangadewar](https://github.com/Chandangadewar)
-* 📧 Open to opportunities in **DevOps, Cloud Engineering & Backend Development**
+* 💼 LinkedIn: [linkedin.com/in/chandan-gadewar-066194258](https://www.linkedin.com/in/chandan-gadewar-066194258/)
+* 💻 GitHub: [github.com/Chandangadewar](https://github.com/Chandangadewar)
+* ☁️ AWS Certified Solutions Architect – Associate (SAA-C03)
+* 📧 Open to opportunities in **Cloud Engineering, DevOps, Backend & Full Stack Development**
+* 🚀 Immediate Joiner
