@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandan Gadewar</h1>
 
 <h3 align="center">
-Cloud & DevOps Engineer | AWS Certified | Kubernetes | Terraform | CI/CD | Docker | Java | Spring Boot | Node.js</h3>
-
+DevOps & Cloud Engineer | AWS Certified | Kubernetes | Terraform | CI/CD | Docker | GitOps | Observability
 <p align="center">
 Passionate about building scalable cloud infrastructure, automating deployments, and developing production-ready backend and cloud-native applications.
 </p>
