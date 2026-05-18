@@ -2,11 +2,11 @@
 
 <h3 align="center">
 DevOps & Cloud Engineer | AWS Certified | Kubernetes | Terraform | CI/CD | Docker | GitOps | Observability
-  
+</h3>
+
 <p align="center">
 Passionate about building scalable cloud infrastructure, automating deployments, and developing production-ready backend and cloud-native applications.
 </p>
-
 <p align="center">
 <a href="https://github.com/Chandangadewar">
 <img src="https://komarev.com/ghpvc/?username=Chandangadewar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
