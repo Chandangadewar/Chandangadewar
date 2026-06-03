@@ -107,17 +107,6 @@
 
 ---
 
-### 💻 Full Stack
-
-#### ⭐ [Tasty Hub — Full Stack Food Delivery App](https://github.com/Chandangadewar/Tasty-hub-app)
-![React](https://img.shields.io/badge/-React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![EKS](https://img.shields.io/badge/-Amazon%20EKS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-
-- ▸ Full stack food delivery app — React frontend, Node.js/Express REST API, MySQL database
-- ▸ Containerized with Docker and deployed on AWS EKS via GitHub Actions CI/CD pipeline
-- ▸ Prometheus metrics integrated in backend; Grafana dashboards for full observability
-- ▸ Terraform-provisioned infrastructure — all 6 phases production-grade end-to-end
-
----
 
 #### [Spring Boot CI/CD on AWS](https://github.com/Chandangadewar/springboot-cicd-aws)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Java](https://img.shields.io/badge/-Java%2017-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
@@ -134,7 +123,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chandangadewar)
 [![AWS Badge](https://img.shields.io/badge/AWS%20Certified-Verify-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/4153cf44-8bc6-4995-afa9-cb8970cac5c5/linked_in_profile)
 
-📍 **Pune, Maharashtra, India** &nbsp;·&nbsp; ⏱️ **Available in 15 days** &nbsp;·&nbsp; 🎯 **Open to DevOps, Cloud & Full Stack roles**
 
 ---
 
